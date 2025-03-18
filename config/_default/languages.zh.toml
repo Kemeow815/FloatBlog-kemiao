@@ -1,0 +1,16 @@
+languageCode = "zh"
+languageName = "Chinese"
+weight = 1
+
+title = "Ke Miao's Blog"
+ copyright = "© 2025 FloatSheep🤔 <br /> 全站约 {{< wordCount \"all\" >}}"
+
+[params]
+  isoCode = "CN"
+  displayName = "China"
+  rtl = false
+
+  dateFormat = "2005 年 08 月 15 日"
+
+  # mainSections = ["section1", "section2"]
+   description = "I don't know..."
