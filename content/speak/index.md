@@ -28,7 +28,7 @@ xml: false
 <script>
 (function () {
   const talker = new tgTalker({
-  serverUrl: "https://tgtalk-api.hesiy.cn/",
+  serverUrl: "https://tg.kemeow.top/",
   selector: "#iTalk",
   zoom: true,
   custom: {

@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://blog.hesiy.cn/"
+baseURL = "https://cc.kemiao.xyz"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
@@ -23,7 +23,7 @@ rssLimit = 30
     copyright = '/copyright/'
 
 [params]
-    dateFormat = "2006 年 01 月 02 日"
+    dateFormat = "2005 年 08 月 15 日"
   [params.artalk]
     server = 'https://fs_artalk.i45s.com'
-    site = "FloatSheep's Blog"
+    site = "KeMiao's Blog"

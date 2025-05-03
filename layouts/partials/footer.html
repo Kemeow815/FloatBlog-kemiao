@@ -79,7 +79,7 @@
               {{ . | emojify | markdownify }}
             {{- else }}
               &copy;
-              {{ now.Format "2006" }}
+              {{ now.Format "2025" }}
               {{ .Site.Author.name | markdownify | emojify }}
             {{- end }}
           </p>
@@ -92,7 +92,7 @@
             }}
             {{ $congo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://github.com/jpanther/congo" target="_blank" rel="noopener noreferrer">Congo</a>` }}
             <span>图床支持 </span>
-            <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://www.dogecast.com/" target="_blank" rel="noopener noreferrer">DogeDoge</a><br />
+            <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://github.com/" target="_blank" rel="noopener noreferrer">Github</a><br />
             <script>
 //               const cfnet = 'https://cloudflare.net/cdn-cgi/trace';
 // const hesiy = 'https://trace.hesiy.cn/cdn-cgi/trace';
@@ -149,7 +149,7 @@
             <script>
                 const now = new Date();
                 function createtime() {
-                    const grt= new Date("02/23/2020 15:46:12");//在此处修改你的建站时间
+                    const grt= new Date("05/03/2025 15:46:12");//在此处修改你的建站时间
                     now.setTime(now.getTime()+250);
                     days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);
                     hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);

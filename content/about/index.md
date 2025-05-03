@@ -13,19 +13,82 @@ xml: false
 
 <style>.emoji-object { display: inline-block; padding-left: 2px; padding-bottom: 2px; height: 37px; }</style>
 
-<div >:waving_hand_color:  我是 FloatSheep（巨蟹座，he/him），是一个 <span class="typer" style="--i: 0;" data-text="Student.">Student.</span> <span class="typer" style="--i: 1;" data-text="Coder(garbage).">Coder(garbage).</span> <span class="typer" style="--i: 2;" data-text="Dreamer.">Dreamer.</span></div>
+<div >:你好👋，我是克喵爱吃卤面，是一个 <span class="typer" style="--i: 0;" data-text="Student.">学生.</span> <span class="typer" style="--i: 1;" data-text="Coder(garbage).">Coder(garbage).</span> <span class="typer" style="--i: 2;" data-text="Dreamer.">Sharer.</span></div>
 
-> 浮杨，一个拥有敏感心灵和深刻感性的灵魂，面对学习和生活中的挑战，他有着一份坚韧不拔的决心。在校园这个多彩的小宇宙中，他既是观察者，也是参与者，经历着成长的甘苦与考验。尽管偶尔会在压力的重重包围下流露出脆弱，但他总能从中汲取力量，如同凤凰涅槃，焕发新的生命力。浮杨正逐步踏出内向的阴影，朝向外向的阳光大步前行，带着对未来满满的期待和改变的勇气。他深知，未来的路由自己铺就，每一个努力的今天，都是为了更加灿烂的明天。
+> 光就是一切的意义！
 
-我的性格（探险家 > ISFP-T）
+我的性格（提倡者 > INFJ-T）
 
-**FloatSheep(浮杨)** 是我的网名，它的含义：
+<a href="https://blog-v3.kemeow.top/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" height="275" /></a>
+</p>
 
-* 像杨树一样高大、茂盛、坚强，而且能够随风飘逸，不受拘束
-* 不愿被束缚，想要自由地探索世界
-* 有着独特的想法和创造力，像浮雕一样有着立体的艺术感
-* 有着好运气和机遇，像浮萍一样能够顺水推舟
+- 🧑 一个上大二的大学生🐂🐴，在南京就读。
 
-座右铭：『适水而行，不失心航』
+- 🐛 学习自动化技术与应用，因被nt软件PU口袋(广告)校园的sb开屏广告恶心，所以开始接触小绿书。
 
-:globe_with_meridians_color: 坐标: **Hubei, China**
+- 🤯 酷爱折腾，将若只广告app尽量全部改掉。
+
+- 🎮 不玩手机网游，非wzry和ys玩家，现在只在PC上玩LOL(菜逼)、各种单机游戏(泰拉瑞亚和饥荒为主)。
+
+- 💡 我通常会在这个博客里记录我的资源分享、生活日记和踩坑教程，希望在这里你能得偿所愿。
+
+### 名字由来
+
+**克喵**，看过的最喜欢的小说(诡秘之主)的主角在书粉里的一个称呼，本人长期看小说(非书虫)，看小说时长2000+，看小说不需要太强的逻辑性。
+
+**卤面**，本来我的id只有克喵，直到之前的宿命之环更新时加上了二代主角卢米安·李的名字，卢米安读快了就是**卤面**。
+
+<img align='right' src="https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png" width="150" alt="person">
+
+### 建站记录
+
+我从23年末开始使用小绿书，后来rz小编搞得社区乌烟瘴气，被ex的不行后像转战去别的平台看，正在思考的时候碰到了当时已经半退出小绿书的[@haoruanfenxiang (好软分享)](https://t.me/haoruanfenxiang)，
+在他的启发下前往了Telegram，让我大为震撼，于是便在这里住下了。之后通过其他殴打分享的项目接触到了博客。
+
+#### 2024.11
+- [**BroadcastChannel**](https://github.com/ccbikai/BroadcastChannel)是我接触的第一款博客。
+- 后续至今(2025.04.19)我已经陆陆续续尝试了[hexo](https://hexo.io/zh-cn/)、[hugo](https://gohugo.io/)、[astro](https://astro.build/)、[vitepress](https://vitepress.dev/)、[vuepress](https://vuepress.vuejs.org/)、[nuxt](https://nuxt.com/)等等，建站的过程中也给我带来了乐趣，时不时还写点博客。
+
+#### 2025.02.11
+- [**blog-v3**](https://github.com/L33Z22L11/blog-v3)是我的主力博客，基于 [nuxt](https://nuxt.com/) 全栈，灵感来源于 [hexo](https://hexo.io/zh-cn/) 的 [stellar](https://github.com/xaoxuu/hexo-theme-stellar) 主题，感谢纸鹿大佬的开源！
+- 可以在[Folo](https://app.follow.is/timeline/view-0/all/pending)里订阅[我](https://app.follow.is/share/feeds/135622467121437696)，感谢！
+
+#### 2025.05.03
+- 根据[大佬](https://github.com/DIYgod)的开源博客，搭建了这个博客。
+
+### 兴趣爱好
+
+- **记录日记** 今年以前纸本的方式记录，今年转战[obsidian](https://obsidian.md/)、[notion](https://www.notion.com/)、[siyuan](https://b3log.org/siyuan/?lang=cn)最后定格在了[思源笔记](https://b3log.org/siyuan/?lang=cn)。
+
+- **音乐迷** 听的挺杂，什么好听听什么。
+
+- **资源分享** 分享好用的资源，在[Telegram](https://t.me/kemiaofx_me)能找到我搜集的最全的资源。
+
+> 生命不息,折腾不止。
+
+### Github 小游戏
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 赞助
+
+如果你觉得我的分享对你有帮助，不妨请我喝杯咖啡☕️，让我更有动力继续分享。
+
+<div style="display: flex; flex-direction: column; gap: 20px; margin: 1rem 0; align-items: center;">
+  <div style="text-align: center; width: 100%;">
+    <strong>支付宝</strong><br>
+    <img src="https://s2.loli.net/2025/04/13/HYrnNFOKDZPSv4p.jpg" style="width: 50%; min-width: 200px; display: block; margin: 0 auto;">
+  </div>
+  <div style="text-align: center; width: 100%;">
+    <strong>微信</strong><br>
+    <img src="https://s2.loli.net/2025/04/13/HQ4lbFfJkpU2R9V.jpg" style="width: 50%; min-width: 200px; display: block; margin: 0 auto;">
+  </div>
+</div>
+
+---
+
+> 感谢你能看到这里，希望我的分享对你有帮助，如果你有什么困扰，也可咨询我，在我时间有限的情况下，我会竭力回复。

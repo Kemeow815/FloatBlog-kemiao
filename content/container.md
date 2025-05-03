@@ -30,20 +30,13 @@ xml: false
 ## 个人信息
 
 ```yaml
-- nickname: FloatSheep
-  url: https://blog.hesiy.cn
-  avatar: https://registry.npmmirror.com/@floatsheep/fsl-fim/1.0.23/files/avatar%202024.main.webp
-  description: On the other side of obstacles
+- nickname: 克喵爱吃卤面
+  url: https://me.kemiao.xyz
+  avatar: https://s2.loli.net/2025/04/20/V8zWaEoxP5msqNQ.jpg
+  description: 愿你看清一切真相后，依旧热爱你的家人和朋友。
 ```
 
-对于 `avatar`，我提供以下版本：
-
-- [原版本](https://registry.npmmirror.com/@floatsheep/fsl-fim/1.0.23/files/avatar%202024.black.webp)
-- [白色背景版](https://registry.npmmirror.com/@floatsheep/fsl-fim/1.0.23/files/avatar%202024.wb.webp)
-
-如果需要 Dark version，可以通过 CSS 来处理 `filter: invert(1) hue-rotate(180deg);`
-
-在评论区用 `YAML` 格式留下你的信息即可
+在这个[仓库](https://github.com/Kemeow815/Friends)里上传你的友链信息，这里我会最快的添加，当然你要可以在在评论区用 `YAML` 格式留下你的信息
 
 ```yaml
 - nickname: ""

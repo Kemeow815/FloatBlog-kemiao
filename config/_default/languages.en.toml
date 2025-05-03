@@ -2,15 +2,15 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "FloatSheep's Blog"
- copyright = "© 2023 FloatSheep🤔 <br /> 全站约 {{< wordCount \"all\" >}}"
+title = "KeMiao's Blog"
+ copyright = "© 2025 克喵爱吃卤面🤔 <br /> 全站约 {{< wordCount \"all\" >}}"
 
 [params]
   isoCode = "us"
   displayName = "US"
   rtl = false
 
-  dateFormat = "2006 年 01 月 02 日"
+  dateFormat = "2005 年 08 月 15 日"
 
   # mainSections = ["section1", "section2"]
    description = "I don't know..."

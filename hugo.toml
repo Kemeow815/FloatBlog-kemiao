@@ -1,7 +1,7 @@
-# baseURL = 'https://blog.hesiy.cn/'
+# baseURL = 'https://cc.kemiao.xyz/'
 languageCode = 'zh-cn'
-title = "FloatSheep's Blog"
+title = "KeMiao's Blog"
 hasCJKLanguage = true
 
 [params]
-    dateFormat = "2006 年 01 月 02 日"
+    dateFormat = "2005 年 08 月 15 日"

@@ -203,7 +203,7 @@
         </div>
 
         <div class="meta-info">
-          <div>由 FloatBlog 生成</div>
+          <div>由 KeMiao's Blog 生成</div>
           <xsl:if test="rss/channel/lastBuildDate">
             <div>最后更新: <xsl:value-of select="rss/channel/lastBuildDate"/></div>
           </xsl:if>

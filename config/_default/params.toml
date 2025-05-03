@@ -19,13 +19,13 @@ enableQuicklink = true
 fingerprintAlgorithm = "sha256"
 
 [author]
-name = "FloatSheep"
+name = "克喵爱吃卤面"
 image = "avatar.webp"
-headline = "☁ Float, Float and Float~"
-bio = "On the other side of obstacles"
+headline = "☁ 一个恩赐，或者，一个诅咒 ~"
+bio = "愿你看清一切真相后，依旧热爱你的家人和朋友。"
 links = [
-  { email = "mailto:admin@hesiy.cn" },
-  { link = "https://hesiy.cn/" },
+  { email = "mailto:kemiaofx@163.com" },
+  { link = "https://www.kemiao.online/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -35,15 +35,15 @@ links = [
   #   { facebook = "https://www.facebook.com/hajeekn" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  { github = "https://github.com/FloatSheep" },
+  { github = "https://github.com/Kemeow815" },
   #   { gitlab = "https://gitlab.com/Iam-Hajeekn" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
   #   { instagram = "https://instagram.com/username" },
   # { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
-  { neteasemusic = "https://music.163.com/#/user/home?id=1431228228" },
-  { lastfm = "https://last.fm/user/FloatSheep" },
+  { neteasemusic = "https://music.163.com/#/user/home?id=2607560262" },
+  #   { lastfm = "https://last.fm/user/FloatSheep" },
   #   { linkedin = "https://linkedin.com/in/username" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
@@ -58,14 +58,14 @@ links = [
   #   { soundcloud = "https://soundcloud.com/username" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
-  #   { telegram = "https://t.me/username" },
+  { telegram = "https://t.me/KemiaoJun" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  { bilibili = "https://space.bilibili.com/384597455" },
+  { bilibili = "https://space.bilibili.com/3546643173477234" },
 ]
 
 [header]
