@@ -33,7 +33,7 @@ xml: false
   zoom: true,
   custom: {
     proxy: {
-      proxyUrl: "https://tgtalk-img.hesiy.cn/",
+      proxyUrl: "https://tg.kemeow.top/",
       image: true,
     },
     emaction: {
