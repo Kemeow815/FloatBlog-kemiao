@@ -28,12 +28,12 @@ xml: false
 <script>
 (function () {
   const talker = new tgTalker({
-  serverUrl: "https://tg.kemeow.top/",
+  serverUrl: "https://tg.kemeow.top",
   selector: "#iTalk",
   zoom: true,
   custom: {
     proxy: {
-      proxyUrl: "https://tg.kemeow.top/",
+      proxyUrl: "https://tg.kemeow.top",
       image: true,
     },
     emaction: {

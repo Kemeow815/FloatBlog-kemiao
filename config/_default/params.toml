@@ -71,7 +71,7 @@ links = [
 [header]
 layout = "custom" # valid options: basic, hamburger, hybrid, custom
 # logo = "avatar.webp"
-# logoDark = "img/dark-logo.jpg"
+logoDark = "avatar.webp"
 showTitle = true
 
 [footer]
@@ -102,7 +102,7 @@ showTableOfContents = true
 showTaxonomies = true
 showWordCount = true
 showComments = true
-# sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
+sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
 
 [word_count]
 one = "{{ .Count }} 字"
