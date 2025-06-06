@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 baseURL = "https://me.kemiao.xyz"
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-CN"
 
 enableRobotsTXT = true
 pagerSize = 10
