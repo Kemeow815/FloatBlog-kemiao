@@ -34,11 +34,11 @@ xml: false
   custom: {
     proxy: {
       proxyUrl: "https://tg.kemeow.top",
-      image: true,
+      image: false,
     },
     emaction: {
       enable: true,
-      endpoint: "https://emaction.hesiy.cn",
+      endpoint: "https://tg.kemeow.top",
       theme: "system",
       availableArrayString:
         "\uD83D\uDC4D,thumbs-up;\uD83D\uDE04,smile-face;\uD83C\uDF89,party-popper;\uD83D\uDE15,confused-face;❤️,red-heart;\uD83D\uDE80,rocket;\uD83D\uDC40,eyes;\uD83D\uDC4E,thumbs-down;",
